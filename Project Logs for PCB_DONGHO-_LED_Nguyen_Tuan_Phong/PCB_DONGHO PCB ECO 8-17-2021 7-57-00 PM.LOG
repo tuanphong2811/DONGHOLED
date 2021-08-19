@@ -1,0 +1,24 @@
+Change Component Footprint: Designator=L7 Old Footprint=LED-0805-Red New Footprint=LED-5MM-RED
+Change Component Comment : Designator=L7 Old Comment=LED 0805 New Comment=LED 5mm
+Change component parameters: Designator = "L7" ("L7"); Footprint = "LED-0805-Red"; UniqueID = "\NLZTATWY" ("\NLZTATWY")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Added Component: Designator=L8(LED-5MM-RED)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH008967"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Led 5MM Ph? Ð? (1000c)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetL8_1 Pin=L8-1
+Added Pin To Net: NetName=GND Pin=L8-2
+Added Member To Class: ClassName=SCH_DONGHO Member=Component L8 LED 5mm
+Added Room: Name=DS3231
+Added Room: Name=ESP8266
+Added Room: Name=HEADRE
+Added Room: Name=LED 7 THANH
+Added Room: Name=SCH_DONGHO

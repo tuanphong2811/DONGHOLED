@@ -1,0 +1,97 @@
+Removed Member From Class: ClassName=DS3231 Member=C13
+Removed Member From Class: ClassName=DS3231 Member=C14
+Removed Member From Class: ClassName=LED 7 THANH Member=L6
+Removed Member From Class: ClassName=ESP8266 Member=R14
+Removed Member From Class: ClassName=DS3231 Member=R22
+Change Component Designator: OldDesignator=BT1 NewDesignator=BT2
+Change Component Designator: OldDesignator=BT2 NewDesignator=BT3
+Change Component Designator: OldDesignator=BT3 NewDesignator=BT4
+Change Component Designator: OldDesignator=BT4 NewDesignator=BT5
+Change Component Designator: OldDesignator=BT5 NewDesignator=BT1
+Change Component Designator: OldDesignator=C1 NewDesignator=C7
+Change Component Designator: OldDesignator=C2 NewDesignator=C8
+Change Component Designator: OldDesignator=C3 NewDesignator=C9
+Change Component Designator: OldDesignator=C4 NewDesignator=C10
+Change Component Designator: OldDesignator=C5 NewDesignator=C11
+Change Component Designator: OldDesignator=C6 NewDesignator=C12
+Change Component Designator: OldDesignator=C7 NewDesignator=C13
+Change Component Designator: OldDesignator=C8 NewDesignator=C14
+Change Component Designator: OldDesignator=C9 NewDesignator=C15
+Change Component Designator: OldDesignator=C10 NewDesignator=C16
+Change Component Designator: OldDesignator=C11 NewDesignator=C1
+Change Component Designator: OldDesignator=C12 NewDesignator=C2
+Change Component Designator: OldDesignator=C13 NewDesignator=C3
+Change Component Designator: OldDesignator=C14 NewDesignator=C4
+Change Component Designator: OldDesignator=C15 NewDesignator=C5
+Change Component Designator: OldDesignator=C16 NewDesignator=C6
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q5
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q6
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q1
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q2
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q3
+Change Component Designator: OldDesignator=Q6 NewDesignator=Q4
+Change Component Designator: OldDesignator=R1 NewDesignator=R11
+Change Component Designator: OldDesignator=R2 NewDesignator=R12
+Change Component Designator: OldDesignator=R3 NewDesignator=R13
+Change Component Designator: OldDesignator=R4 NewDesignator=R14
+Change Component Designator: OldDesignator=R5 NewDesignator=R15
+Change Component Designator: OldDesignator=R6 NewDesignator=R16
+Change Component Designator: OldDesignator=R7 NewDesignator=R17
+Change Component Designator: OldDesignator=R8 NewDesignator=R18
+Change Component Designator: OldDesignator=R9 NewDesignator=R19
+Change Component Designator: OldDesignator=R10 NewDesignator=R20
+Change Component Designator: OldDesignator=R11 NewDesignator=R21
+Change Component Designator: OldDesignator=R12 NewDesignator=R22
+Change Component Designator: OldDesignator=R13 NewDesignator=R23
+Change Component Designator: OldDesignator=R14 NewDesignator=R1
+Change Component Designator: OldDesignator=R15 NewDesignator=R2
+Change Component Designator: OldDesignator=R16 NewDesignator=R3
+Change Component Designator: OldDesignator=R17 NewDesignator=R4
+Change Component Designator: OldDesignator=R18 NewDesignator=R5
+Change Component Designator: OldDesignator=R19 NewDesignator=R6
+Change Component Designator: OldDesignator=R20 NewDesignator=R7
+Change Component Designator: OldDesignator=R21 NewDesignator=R8
+Change Component Designator: OldDesignator=R22 NewDesignator=R9
+Change Component Designator: OldDesignator=R23 NewDesignator=R10
+Change Component Designator: OldDesignator=U1 NewDesignator=U3
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Change Net Name : Old Net Name=NetBT1_2 New Net Name=NetBT2_2
+Change Net Name : Old Net Name=NetBT5_1 New Net Name=NetBT1_1
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=NetQ5_1
+Change Net Name : Old Net Name=NetQ2_1 New Net Name=NetQ6_1
+Change Net Name : Old Net Name=NetQ3_1 New Net Name=NetQ1_1
+Change Net Name : Old Net Name=NetQ4_1 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetQ5_1 New Net Name=NetQ3_1
+Change Net Name : Old Net Name=NetQ6_1 New Net Name=NetQ4_1
+Change Net Name : Old Net Name=NetR1_2 New Net Name=NetR11_2
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR12_2
+Change Net Name : Old Net Name=NetR3_2 New Net Name=NetR13_2
+Change Net Name : Old Net Name=NetR4_2 New Net Name=NetR14_2
+Change Net Name : Old Net Name=NetR5_2 New Net Name=NetR15_2
+Change Net Name : Old Net Name=NetR6_2 New Net Name=NetR16_2
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR17_2
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR18_2
+Change Net Name : Old Net Name=NetR15_1 New Net Name=NetR2_1
+Change Net Name : Old Net Name=NetR16_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR17_1 New Net Name=NetR4_1
+Change Net Name : Old Net Name=NetR18_1 New Net Name=NetR5_1
+Change Net Name : Old Net Name=NetR20_1 New Net Name=NetR7_1
+Change Net Name : Old Net Name=NetR21_1 New Net Name=NetR8_1
+Added Member To Class: ClassName=HEADRE Member=Component C1 10uF
+Added Member To Class: ClassName=DS3231 Member=Component C5 10uF
+Added Member To Class: ClassName=DS3231 Member=Component C6 104
+Added Member To Class: ClassName=LED 7 THANH Member=Component L2 LED 7 Thanh
+Added Member To Class: ClassName=LED 7 THANH Member=Component L3 LED 7 Thanh
+Added Member To Class: ClassName=LED 7 THANH Member=Component L5 LED 7 Thanh
+Added Member To Class: ClassName=LED 7 THANH Member=Component R3 100R
+Added Member To Class: ClassName=LED 7 THANH Member=Component R4 100R
+Added Member To Class: ClassName=DS3231 Member=Component R6 470R
+Added Member To Class: ClassName=DS3231 Member=Component R8 4.7k
+Added Member To Class: ClassName=ESP8266 Member=Component R10 10k
+Added Room: Name=DS3231
+Added Room: Name=ESP8266
+Added Room: Name=HEADRE
+Added Room: Name=LED 7 THANH
+Added Room: Name=SCH_DONGHO

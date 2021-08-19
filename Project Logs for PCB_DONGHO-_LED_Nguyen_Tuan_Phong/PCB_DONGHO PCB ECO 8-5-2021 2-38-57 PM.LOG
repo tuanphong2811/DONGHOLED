@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=IR DATA Pin=U1-32
+Removed Pin From Net: NetName=DHT11 DATA Pin=U1-33
+Added Pin To Net: NetName=DHT11 DATA Pin=U1-32
+Added Pin To Net: NetName=IR DATA Pin=U1-33
+Added Member To Class: ClassName=SCH_DONGHO Member=Component R10 4.7k
+Added Member To Class: ClassName=SCH_DONGHO Member=Component R12 100R
+Added Room: Name=DS3231
+Added Room: Name=ESP8266
+Added Room: Name=HEADRE
+Added Room: Name=LED 7 THANH

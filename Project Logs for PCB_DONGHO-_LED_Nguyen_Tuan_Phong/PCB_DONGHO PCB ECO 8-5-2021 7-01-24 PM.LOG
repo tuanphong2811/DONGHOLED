@@ -1,0 +1,23 @@
+Removed Member From Class: ClassName=DS3231 Member=C11
+Removed Member From Class: ClassName=DS3231 Member=C14
+Removed Member From Class: ClassName=HEADRE Member=L2
+Removed Member From Class: ClassName=LED 7 THANH Member=L6
+Removed Member From Class: ClassName=ESP8266 Member=R14
+Removed Member From Class: ClassName=DS3231 Member=R22
+Removed Member From Class: ClassName=DS3231 Member=U2
+Added Member To Class: ClassName=HEADRE Member=Component C13 10uF
+Added Member To Class: ClassName=DS3231 Member=Component C15 10uF
+Added Member To Class: ClassName=DS3231 Member=Component C16 104
+Added Member To Class: ClassName=HEADRE Member=Component L1 LED 0805
+Added Member To Class: ClassName=LED 7 THANH Member=Component L3 LED 7 Thanh
+Added Member To Class: ClassName=LED 7 THANH Member=Component L5 LED 7 Thanh
+Added Member To Class: ClassName=LED 7 THANH Member=Component R16 100R
+Added Member To Class: ClassName=DS3231 Member=Component R19 470R
+Added Member To Class: ClassName=DS3231 Member=Component R21 4.7k
+Added Member To Class: ClassName=ESP8266 Member=Component R23 10k
+Added Member To Class: ClassName=DS3231 Member=Component U3 DS3231 SMD
+Added Room: Name=DS3231
+Added Room: Name=ESP8266
+Added Room: Name=HEADRE
+Added Room: Name=LED 7 THANH
+Added Room: Name=SCH_DONGHO

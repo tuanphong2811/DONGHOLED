@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=3.3V Pin=JP2-2
+Removed Pin From Net: NetName=3.3V Pin=JP3-2
+Removed Pin From Net: NetName=3.3V Pin=R11-1
+Removed Pin From Net: NetName=3.3V Pin=R12-1
+Removed Pin From Net: NetName=3.3V Pin=R12-2
+Removed Pin From Net: NetName=3.3V Pin=U1-32
+Removed Pin From Net: NetName=3.3V Pin=U1-33
+Removed Member From Class: ClassName=DS3231 Member=C10
+Removed Member From Class: ClassName=DS3231 Member=R6
+Removed Member From Class: ClassName=LED 7 THANH Member=R8
+Removed Member From Class: ClassName=ESP8266 Member=R9
+Removed Member From Class: ClassName=LED 7 THANH Member=R11
+Change Component Designator: OldDesignator=R10 NewDesignator=R12
+Added Component: Designator=R10(tro smd 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005307"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0805 5% 4.7k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=R10-2
+Added Pin To Net: NetName=DHT11 DATA Pin=JP2-2
+Added Pin To Net: NetName=DHT11 DATA Pin=R11-1
+Added Pin To Net: NetName=DHT11 DATA Pin=U1-33
+Added Net: Name=DHT11 DATA
+Added Pin To Net: NetName=IR DATA Pin=JP3-2
+Added Pin To Net: NetName=IR DATA Pin=R10-1
+Added Pin To Net: NetName=IR DATA Pin=U1-32
+Added Net: Name=IR DATA
+Added Member To Class: ClassName=SCH_DONGHO Member=Component BT3 Nut Nhan 4 Chan Cam 6x6
+Added Member To Class: ClassName=SCH_DONGHO Member=Component BT4 Nut Nhan 2 Chan SMD 3x6x2.5
+Added Member To Class: ClassName=DS3231 Member=Component BT5 CR1220 SMD
+Added Member To Class: ClassName=SCH_DONGHO Member=Component C1 104
+Added Member To Class: ClassName=SCH_DONGHO Member=Component C2 104
+Added Member To Class: ClassName=SCH_DONGHO Member=Component C3 104
+Added Member To Class: ClassName=SCH_DONGHO Member=Component C4 22nF
+Added Member To Class: ClassName=SCH_DONGHO Member=Component C5 104
+Added Member To Class: ClassName=SCH_DONGHO Member=Component C8 104
+Added Member To Class: ClassName=SCH_DONGHO Member=Component C10 22nF
+Added Member To Class: ClassName=DS3231 Member=Component C11 10uF
+Added Member To Class: ClassName=HEADRE Member=Component C14 1uF
+Added Member To Class: ClassName=HEADRE Member=Component C15 10uF
+Added Member To Class: ClassName=HEADRE Member=Component C16 10uF
+Added Member To Class: ClassName=SCH_DONGHO Member=Component Q1 HF
+Added Member To Class: ClassName=SCH_DONGHO Member=Component Q2 HF
+Added Member To Class: ClassName=LED 7 THANH Member=Component Q5 HF
+Added Member To Class: ClassName=LED 7 THANH Member=Component Q6 HF
+Added Member To Class: ClassName=SCH_DONGHO Member=Component R1 100R
+Added Member To Class: ClassName=SCH_DONGHO Member=Component R2 100R
+Added Member To Class: ClassName=SCH_DONGHO Member=Component R3 100R
+Added Member To Class: ClassName=SCH_DONGHO Member=Component R4 100R
+Added Member To Class: ClassName=SCH_DONGHO Member=Component R7 100R
+Added Member To Class: ClassName=SCH_DONGHO Member=Component R10 4.7k
+Added Member To Class: ClassName=SCH_DONGHO Member=Component R11 4.7k
+Added Member To Class: ClassName=SCH_DONGHO Member=Component R12 100R
+Added Member To Class: ClassName=SCH_DONGHO Member=Component R13 100R
+Added Member To Class: ClassName=LED 7 THANH Member=Component R15 100R
+Added Member To Class: ClassName=LED 7 THANH Member=Component R16 100R
+Added Member To Class: ClassName=DS3231 Member=Component R18 470R
+Added Member To Class: ClassName=ESP8266 Member=Component R21 10k
+Added Room: Name=DS3231
+Added Room: Name=ESP8266
+Added Room: Name=HEADRE
+Added Room: Name=LED 7 THANH
+Added Room: Name=SCH_DONGHO
